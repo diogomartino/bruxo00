@@ -14,10 +14,11 @@ I'm Diogo Martino, a technology enthusiast and a Computer Science graduate, curr
 - [RansomFlow](https://github.com/bruxo00/RansomFlow) - A simple concept of a Ransomware with a vaccine included. *(2021; C#)*
 - [Spotify Currently Playing](https://github.com/bruxo00/SpotifyCurrentlyPlaying) - A tool to allow streamers to show live feed from Spotify with the song they are currently listening to. *(2019; C#)*
 - [Autocrawler](https://github.com/bruxo00/autocrawler) - Portuguese online car dealership crawler. *(2021; NodeJS)*
+- [LaunchpadHero](LaunchpadHero) - Novation Launchpad MIDI keyboard mapper to play Clone Hero, which is the PC version of Guitar Hero. *(2021; C#)*
 
 #### Ongoing personal projects:
 - [Autology.pt](https://autology.pt) - An online platform which allows the user to search cars from multiple dealerships at the same time, get notifications about new ads, etc. *(2021; NodeJS, React, MongoDB)*
-- [Rumblio.com](https://rumblio.org) - A decentralized Casino using Ethereum Smart Contracts *(2020; NodeJS, React, MongoDB, Solidity).
+- [Rumblio.com](https://rumblio.org) - A decentralized Casino using Ethereum Smart Contracts. *(2020; NodeJS, React, MongoDB, Solidity)*
 
 #### My skills level:
 | Language/Tool | Knowledge |
