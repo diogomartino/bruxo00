@@ -17,8 +17,8 @@ I'm Diogo Martino, a technology enthusiast and a Computer Science graduate, curr
 - [LaunchpadHero](LaunchpadHero) - Novation Launchpad MIDI keyboard mapper to play Clone Hero, which is the PC version of Guitar Hero. *(2021; C#)*
 
 #### Ongoing personal projects:
-- [Autology.pt](https://autology.pt) - An online platform which allows the user to search cars from multiple dealerships at the same time, get notifications about new ads, etc. *(2021; NodeJS, React, MongoDB)*
-- [Rumblio.com](https://rumblio.com) - A decentralized Casino using Ethereum Smart Contracts. *(2020; NodeJS, React, MongoDB, Solidity)*
+- [Autology](https://autology.pt) - An online platform which allows the user to search cars from multiple dealerships at the same time, get notifications about new ads, etc. *(2021; NodeJS, React, MongoDB)*
+- [Rumblio](https://rumblio.com) - A decentralized Casino using Ethereum Smart Contracts. *(2020; NodeJS, React, MongoDB, Solidity)*
 - [Tuga Soundboard](https://play.google.com/store/apps/details?id=com.diogomartino.tugasoundboard) - An Android app that has some of the most known memes from Portugal, which you can play or share directly via Whatsapp, Telegram, etc.
 - [YouConv](https://youconv.xyz) - Web app that allows you to download youtube videos and convert them to MP3, MP4 and WAV.
 
