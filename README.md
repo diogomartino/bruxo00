@@ -1,7 +1,7 @@
 
 ## Hello there 👋
 -------------------------------
-I'm Diogo Martino, a technology enthusiast and a Computer Science graduate, currently working at QAValue as a Full Stack Developer. Get in touch with me on my [website](https://diogomartino.com).
+I'm Diogo Martino, a technology enthusiast and a Computer Science graduate, currently working at [Clutch.io](https://clutch.io) as a Software Engineer. Get in touch with me on my [website](https://diogomartino.com).
 
 #### Here are some of my open source projects:
  - [Steam Auto Shutdown](https://github.com/bruxo00/steam-auto-shutdown) - A small program that will automatically shutdown your computer when the current download finishes. *(2014; C#)*
