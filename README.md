@@ -12,4 +12,4 @@ I'm Diogo Martino, currently working at [Clutch.io](https://clutch.io) as a Soft
 
 🎶 [OuveRepete](https://ouverepete.diogomartino.run) - App that shows how many songs are repeated on Cidade FM.
 
-🎙️ [TuneSense](https://ouverepete.diogomartino.run) - Multiplayer/solo song name guessing using Spotify.
+🎙️ [TuneSense](https://tunesense.diogomartino.run) - Multiplayer/solo song name guessing using Spotify.
